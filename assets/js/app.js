@@ -1,6 +1,3 @@
-
-
-
 const cl = console.log;
 
 const hide = document.getElementById('hide');
