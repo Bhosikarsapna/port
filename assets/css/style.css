@@ -267,6 +267,7 @@ body{
 }
 .box h4{
     position: relative;
+
     color : var(--color-border-sec);
 }
 .box h3{
